@@ -13,6 +13,7 @@ OpenAI API integration example included
 Python
 OpenAI API
 Command Line Interface (CLI)
+
 🧠 Concepts Used
 Python Dictionaries
 Functions
