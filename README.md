@@ -33,6 +33,6 @@ Add voice assistant support
 Connect chatbot with database
 Add NLP features
 Improve response intelligence using AI models
-👨‍💻 Author
 
+👨‍💻 Author
 Viraj Patil
