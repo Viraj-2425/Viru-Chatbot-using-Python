@@ -24,9 +24,7 @@ User Input Handling
 🔥 OpenAI API Integration
 
 The project also contains a basic OpenAI API example using:
-
 from openai import OpenAI
-
 This helps understand how AI-powered chatbots work using GPT models.
 
 📈 Future Improvements
