@@ -28,6 +28,7 @@ from openai import OpenAI
 This helps understand how AI-powered chatbots work using GPT models.
 
 📈 Future Improvements
+
 Add GUI using Tkinter or Streamlit
 Add voice assistant support
 Connect chatbot with database
