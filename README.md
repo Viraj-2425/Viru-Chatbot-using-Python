@@ -15,6 +15,7 @@ OpenAI API
 Command Line Interface (CLI)
 
 🧠 Concepts Used
+
 Python Dictionaries
 Functions
 Loops
