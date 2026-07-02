@@ -3,6 +3,7 @@
 A simple Python-based AI chatbot project that responds to basic user queries using predefined responses. This project is beginner-friendly and helps in understanding Python fundamentals like dictionaries, loops, functions, and conditional statements.
 
 🚀 Features
+
 Interactive chatbot conversation
 Responds to greetings and basic questions
 Motivational responses
